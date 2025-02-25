@@ -26,6 +26,7 @@ The system consists of the following components:
    
 6. LLM-based Augmentation:
    - Uses the *Gemini API* to refine or re-rank responses before sending them to the user.
+![WhatsApp Image 2025-02-24 at 11 17 02 PM](https://github.com/user-attachments/assets/90f6f2d6-9ffb-4b18-949f-dc157449f3f5)
    
 ## Information Flow
 1. User submits a query through the Streamlit interface.
