@@ -67,7 +67,7 @@ The system consists of the following components:
 ## How to Run Locally
 1. Clone the repository:
    sh
-   git clone https://github.com/yourusername/response-retrieval-chat.git
+   git clone [https://github.com/yourusername/response-retrieval-chat.git](https://github.com/Saakshi0508k/PDF-chatApp.git)
    cd response-retrieval-chat
    
    
@@ -83,7 +83,7 @@ The system consists of the following components:
 
 4. Start the application:
    sh
-   streamlit run app.py
+   streamlit run chatpdf1.py
    
 
 5. Access the chat interface at [http://localhost:8501](http://localhost:8501)
